@@ -49,42 +49,44 @@ public class AkashKadu {
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
 
-**💻 Languages**
+**💻 Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-<br>
-
-**🍃 Backend &amp; Frameworks**
-
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=java,python,spring" />
 
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
 
-<br>
+</td>
+<td align="center" valign="top" width="50%">
 
 **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
 
-<br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
 
 **🗄️ Database**
 
 <img src="https://skillicons.dev/icons?i=oracle,mysql" />
 
-<br>
+</td>
+<td align="center" valign="top" width="50%">
 
-**🧰 Tools &amp; IDE**
+**🧰 Tools & IDE**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
