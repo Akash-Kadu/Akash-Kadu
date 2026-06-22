@@ -20,84 +20,198 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-🎓 B.Tech in Electronics & Communication Engineering
+# 👋 Hi, I'm Akash Kadu
 
-💼 Java Full Stack Developer Trainee at NareshIT
+### ☕ Java Full Stack Developer | Spring Boot Enthusiast | Backend-Focused Engineer
 
-☕ Strong foundation in Java, Spring Boot, JDBC, Servlets, JSP, SQL, and REST APIs
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;REST+API+Developer;React+Learner;Open+to+Software+Engineering+Roles" />
 
-🌱 Currently learning Microservices, Spring Security, Docker, and System Design
+<br>
 
-🎯 Looking for opportunities as a Java Backend / Full Stack Developer
+<a href="https://linkedin.com/in/akash-kadu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://akashrealresume.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## 💻 Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3)
-
-### Database & Tools
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square\&logo=eclipseide)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### 🛒 GetYourGrocery – Multi-Role Grocery E-Commerce Platform
+```java
+public class AkashKadu {
 
-**Tech Stack:** Java, Spring Boot, Spring MVC, Hibernate, JPA, Oracle DB, Thymeleaf
+    String role = "Java Full Stack Developer";
 
-✔ Multi-role Customer & Seller Platform
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring MVC",
+        "Spring Data JPA",
+        "Hibernate",
+        "REST APIs"
+    };
 
-✔ Authentication & Authorization
+    String[] frontend = {
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+    };
 
-✔ Product & Inventory Management
+    String[] database = {
+        "Oracle SQL",
+        "JDBC"
+    };
+
+    String currentFocus =
+        "Microservices | DSA | System Design";
+
+}
+```
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,git,github,vscode,mysql&perline=6"/>
+
+</div>
+
+---
+
+# 💻 Backend Development
+
+<table>
+<tr>
+<td>
+
+✅ Core Java
+
+✅ OOP Concepts
+
+✅ Collections Framework
+
+✅ Multithreading
+
+✅ Exception Handling
+
+✅ Java 8 Features
+
+</td>
+<td>
+
+✅ JDBC
+
+✅ Servlets
+
+✅ JSP
+
+✅ Spring MVC
+
+✅ Spring Boot
+
+✅ REST APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🗄️ Database Skills
+
+✔ Oracle SQL
+
+✔ Query Optimization
+
+✔ JDBC Integration
+
+✔ Entity Relationships
 
 ✔ CRUD Operations
 
-✔ Database Relationship Mapping
-
-✔ Form Validation & Exception Handling
+✔ Database Design
 
 ---
 
-### 💼 CareerBridge – Recruitment Portal
+# 🚀 Featured Project 01
 
-**Tech Stack:** Core Java, Servlets, JSP, JDBC, Oracle SQL
+## 🛒 GetYourGrocery
 
-✔ Recruiter & Job Seeker Modules
+### Multi-Role Grocery E-Commerce Platform
 
-✔ Secure Session Management
+<img width="100%" src="YOUR_GROCERY_SCREENSHOT_URL"/>
 
-✔ Role-Based Access Control (RBAC)
+### Tech Stack
 
-✔ Resume Management System
+Java • Spring Boot • Spring MVC • Hibernate • JPA • Oracle DB • Thymeleaf
 
-✔ Job Application Tracking
+### Key Features
 
-✔ DAO & MVC Architecture
+* Customer & Seller Modules
+* Secure Authentication
+* Product Management
+* Inventory Management
+* Form Validation
+* Exception Handling
+* Database Relationship Mapping
+
+### Highlights
+
+✔ Full Stack Development
+
+✔ Layered Architecture
+
+✔ Database Design
+
+✔ RESTful Development
 
 ---
 
-## 📈 GitHub Statistics
+# 🚀 Featured Project 02
+
+## 💼 CareerBridge
+
+### Recruitment Management Portal
+
+<img width="100%" src="YOUR_CAREERBRIDGE_SCREENSHOT_URL"/>
+
+### Tech Stack
+
+Core Java • JSP • Servlets • JDBC • Oracle SQL
+
+### Key Features
+
+* Recruiter Dashboard
+* Job Seeker Dashboard
+* Resume Upload
+* Job Tracking
+* Session Management
+* RBAC Security
+
+### Highlights
+
+✔ MVC Architecture
+
+✔ DAO Pattern
+
+✔ SQL Optimization
+
+✔ Secure Authentication
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -107,7 +221,62 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
+
+# 🏗️ Learning Journey
+
+🔹 Microservices Architecture
+
+🔹 Spring Security + JWT
+
+🔹 Docker
+
+🔹 AWS Cloud Fundamentals
+
+🔹 System Design
+
+🔹 Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+✅ Land a Java Developer Role
+
+✅ Build Production-Ready Spring Boot Applications
+
+✅ Deploy Full Stack Projects
+
+✅ Contribute to Open Source
+
+✅ Master Backend Engineering
+
+---
+
+# 📫 Let's Connect
+
+📧 Email: [akashkadu3112@gmail.com](mailto:akashkadu3112@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/akash-kadu
+
+🌐 Portfolio: akashrealresume.netlify.app
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable applications, one commit at a time.
+
+</div>
+
 
 ## 🔥 Contribution Streak
 
