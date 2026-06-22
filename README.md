@@ -49,40 +49,76 @@ public class AkashKadu {
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<table align="center" width="100%" cellpadding="20" cellspacing="0">
+<tr>
+<td align="center" valign="top" width="50%">
+<br>
 
 **💻 Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,hibernate" />
-<br>
-<sub>Java • Python • Spring Boot • Hibernate</sub>
+<br><br>
+
+<img width="220" src="https://skillicons.dev/icons?i=java,python,spring,hibernate" />
 
 <br><br>
+
+<sub>Java • Python • Spring Boot • Hibernate</sub>
+
+<br>
+
+</td>
+<td align="center" valign="top" width="50%">
+<br>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
-<br>
-<sub>React • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind</sub>
+<br><br>
+
+<img width="220" src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
 
 <br><br>
+
+<sub>React • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind</sub>
+
+<br>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<br>
 
 **🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=oracle,mysql" />
-<br>
-<sub>Oracle • MySQL</sub>
+<br><br>
+
+<img width="220" src="https://skillicons.dev/icons?i=oracle,mysql" />
 
 <br><br>
 
+<sub>Oracle • MySQL</sub>
+
+<br>
+
+</td>
+<td align="center" valign="top" width="50%">
+<br>
+
 **🧰 Tools & IDE**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-<br>
+<br><br>
+
+<img width="220" src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+<br><br>
+
 <sub>Git • GitHub • VS Code • IntelliJ IDEA</sub>
 
-</div>
+<br>
 
+</td>
+</tr>
+</table>
 <br>
 
 ## 💡 Core Strengths
