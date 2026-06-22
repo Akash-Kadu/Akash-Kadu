@@ -47,57 +47,56 @@ public class AkashKadu {
 
 <br>
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,git,github,vscode,mysql&perline=6" />
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python" />
+
+<br>
+
+**🍃 Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=spring" />
+
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+
+<br>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
+
+<br>
+
+**🗄️ Database**
+
+<img src="https://skillicons.dev/icons?i=oracle,mysql" />
+
+<br>
+
+**🧰 Tools & IDE**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
 </div>
 
 <br>
 
-## 🧠 Core Strengths
+## 💡 Core Strengths
 
-<table width="100%">
-<tr>
-<th align="left">⚙️ Backend</th>
-<th align="left">🎨 Frontend</th>
-<th align="left">🗄️ Database</th>
-</tr>
-<tr>
-<td valign="top">
+<div align="center">
 
-✅ Core Java &amp; OOP<br>
-✅ Collections Framework<br>
-✅ Multithreading<br>
-✅ Exception Handling<br>
-✅ Java 8 Features<br>
-✅ Spring Boot &amp; Spring MVC<br>
-✅ REST APIs
+🧩 **OOP & Design Patterns** &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 **REST API Development** &nbsp;&nbsp;•&nbsp;&nbsp; 🔐 **Secure Auth & Session Mgmt**
 
-</td>
-<td valign="top">
+🗄️ **Database Design & Query Optimization** &nbsp;&nbsp;•&nbsp;&nbsp; 🎨 **Responsive UI Development**
 
-✅ React<br>
-✅ JavaScript (ES6+)<br>
-✅ HTML5 &amp; CSS3<br>
-✅ Bootstrap &amp; Tailwind<br>
-✅ Responsive UI Design
-
-</td>
-<td valign="top">
-
-✅ Oracle SQL<br>
-✅ JDBC Integration<br>
-✅ Query Optimization<br>
-✅ Entity Relationships<br>
-✅ CRUD Operations<br>
-✅ Database Design
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
