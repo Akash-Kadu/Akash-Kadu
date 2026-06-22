@@ -57,7 +57,7 @@ public class AkashKadu {
 
 <br>
 
-**🍃 Backend & Frameworks**
+**🍃 Backend &amp; Frameworks**
 
 <img src="https://skillicons.dev/icons?i=spring" />
 
@@ -80,7 +80,7 @@ public class AkashKadu {
 
 <br>
 
-**🧰 Tools & IDE**
+**🧰 Tools &amp; IDE**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
@@ -92,9 +92,9 @@ public class AkashKadu {
 
 <div align="center">
 
-🧩 **OOP & Design Patterns** &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 **REST API Development** &nbsp;&nbsp;•&nbsp;&nbsp; 🔐 **Secure Auth & Session Mgmt**
+🧩 **OOP &amp; Design Patterns** &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 **REST API Development** &nbsp;&nbsp;•&nbsp;&nbsp; 🔐 **Secure Auth &amp; Session Mgmt**
 
-🗄️ **Database Design & Query Optimization** &nbsp;&nbsp;•&nbsp;&nbsp; 🎨 **Responsive UI Development**
+🗄️ **Database Design &amp; Query Optimization** &nbsp;&nbsp;•&nbsp;&nbsp; 🎨 **Responsive UI Development**
 
 </div>
 
@@ -104,34 +104,31 @@ public class AkashKadu {
 
 <br>
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:22C55E,100:0EA5E9&text=%F0%9F%9B%92%20GetYourGrocery&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<table>
 <tr>
-<td width="100%">
+<td width="42%" valign="top">
 
-### 🛒 GetYourGrocery — *Multi-Role Grocery E-Commerce Platform*
+<!-- Replace with an actual screenshot or demo GIF -->
+<img width="100%" src="https://via.placeholder.com/500x320/0EA5E9/FFFFFF?text=Add+Screenshot" />
 
-<!-- Replace this with an actual screenshot or demo GIF of the app -->
-<img width="100%" src="https://via.placeholder.com/900x360/0EA5E9/FFFFFF?text=GetYourGrocery+%E2%80%94+Add+Your+Screenshot+Here" />
+</td>
+<td width="58%" valign="top">
 
-<br><br>
+*Multi-Role Grocery E-Commerce Platform*
+
+![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-E--Commerce-0EA5E9?style=flat-square) ![Role](https://img.shields.io/badge/Role-Full_Stack-6366F1?style=flat-square)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-**Key Features**
-- 👥 Separate Customer &amp; Seller modules
-- 🔐 Secure Authentication &amp; Authorization
-- 📦 Product &amp; Inventory Management
-- ✅ Form Validation &amp; Exception Handling
-- 🗄️ Hibernate-mapped Oracle DB entity relationships
+👥 Customer &amp; Seller modules &nbsp;•&nbsp; 🔐 Secure auth &amp; authorization &nbsp;•&nbsp; 📦 Inventory management &nbsp;•&nbsp; 🗄️ Hibernate-mapped Oracle entities
 
-`Full Stack` `Layered Architecture` `RESTful Design`
-
-[🔗 View Repository](https://github.com/Akash-Kadu/GetYourGrocery)
+[![View Code](https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-Kadu/GetYourGrocery)
 
 </td>
 </tr>
@@ -139,32 +136,30 @@ public class AkashKadu {
 
 <br>
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:6366F1,100:8B5CF6&text=%F0%9F%92%BC%20CareerBridge&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<table>
 <tr>
-<td width="100%">
+<td width="42%" valign="top">
 
-### 💼 CareerBridge — *Full-Stack Recruitment Portal*
+<!-- Replace with an actual screenshot or demo GIF -->
+<img width="100%" src="https://via.placeholder.com/500x320/6366F1/FFFFFF?text=Add+Screenshot" />
 
-<!-- Replace this with an actual screenshot or demo GIF of the app -->
-<img width="100%" src="https://via.placeholder.com/900x360/6366F1/FFFFFF?text=CareerBridge+%E2%80%94+Add+Your+Screenshot+Here" />
+</td>
+<td width="58%" valign="top">
 
-<br><br>
+*Full-Stack Recruitment Portal*
+
+![Status](https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-Recruitment-6366F1?style=flat-square) ![Role](https://img.shields.io/badge/Role-Full_Stack-0EA5E9?style=flat-square)
 
 ![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP%2FServlets-007396?style=flat-square&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Key Features**
-- 🧑‍💼 Recruiter &amp; Job Seeker dashboards
-- 📄 Resume upload &amp; job application tracking
-- 🔑 Role-Based Access Control (RBAC)
-- 🛡️ Secure session management
-- 🚫 SQL-injection-safe queries via PreparedStatements
+🧑‍💼 Recruiter &amp; Seeker dashboards &nbsp;•&nbsp; 🔑 RBAC &amp; secure sessions &nbsp;•&nbsp; 📄 Resume upload &amp; tracking &nbsp;•&nbsp; 🚫 Injection-safe JDBC queries
 
-`MVC Architecture` `DAO Pattern` `Secure Authentication`
-
-[🔗 View Repository](https://github.com/Akash-Kadu/CareerBridge)
+[![View Code](https://img.shields.io/badge/🔗_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash-Kadu/CareerBridge)
 
 </td>
 </tr>
