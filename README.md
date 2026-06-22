@@ -1,316 +1,135 @@
 <div align="center">
 
-# Hi 👋, I'm Akash Kadu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%20There!%20I'm%20Akash%20%F0%9F%91%8B&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-### ☕ Java Full Stack Developer | Spring Boot Developer | Problem Solver
+<a href="https://akashrealresume.netlify.app/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+React;Turning+Logic+into+Working+Software" alt="Typing SVG" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;REST+API+Developer;React+Frontend+Learner;Open+to+Software+Engineering+Opportunities" />
-
-<br>
-
-<a href="https://linkedin.com/in/akash-kadu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://akashrealresume.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p>
+  <a href="https://akashrealresume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akash-kadu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akashkadu3112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 👋 Hi, I'm Akash Kadu
-
-### ☕ Java Full Stack Developer | Spring Boot Enthusiast | Backend-Focused Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;REST+API+Developer;React+Learner;Open+to+Software+Engineering+Roles" />
-
-<br>
-
-<a href="https://linkedin.com/in/akash-kadu">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://akashrealresume.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🚀 About Me
+### 👨‍💻 About Me
 
 ```java
-public class AkashKadu {
+public class Akash implements FullStackDeveloper {
 
-    String role = "Java Full Stack Developer";
+    String role        = "Java Full Stack Developer";
+    String[] targets    = {"SDE", "Backend Developer", "Spring Boot Developer", "Full Stack Developer"};
+    String location     = "Hyderabad, India";
+    boolean openToWork  = true;
 
-    String[] backend = {
-        "Java",
-        "Spring Boot",
-        "Spring MVC",
-        "Spring Data JPA",
-        "Hibernate",
-        "REST APIs"
-    };
-
-    String[] frontend = {
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Bootstrap"
-    };
-
-    String[] database = {
-        "Oracle SQL",
-        "JDBC"
-    };
-
-    String currentFocus =
-        "Microservices | DSA | System Design";
-
+    public String[] currentFocus() {
+        return new String[] {
+            "Building production-grade Spring Boot applications",
+            "Strengthening DSA & problem solving",
+            "Writing clean, scalable REST APIs"
+        };
+    }
 }
 ```
 
+- 🧩 Strong fundamentals in **Core Java, OOP, Collections & DSA**
+- 🌱 Currently a **Java Full Stack Developer Trainee** at Naresh IT — building with Spring Boot, JDBC & SQL
+- 🛠️ I enjoy turning ideas into full, working applications — frontend to database
+- 🎯 Actively targeting roles in **Java / Backend / Full Stack / SDE** development
+- 📫 Reach me at **akashkadu3112@gmail.com**
+
 ---
 
-# 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,html,css,bootstrap,git,github,vscode,mysql&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,react,bootstrap,tailwind,oracle,git,github,vscode,idea" />
+
+</div>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-25D366?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-# 💻 Backend Development
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-✅ Core Java
+#### 🛒 GetYourGrocery
+**Multi-role Grocery E-Commerce Platform**
 
-✅ OOP Concepts
+Full-stack app with separate **Customer & Seller** modules — built on Spring Boot + Spring MVC + Spring Data JPA with Hibernate-mapped entities on Oracle DB.
 
-✅ Collections Framework
+- 🔐 Authentication, Authorization & role-based flows
+- 🗄️ Hibernate ORM + Oracle DB entity relationships
+- ✅ Form validation & exception handling for reliability
 
-✅ Multithreading
+`Java` `Spring Boot` `Hibernate` `Oracle DB` `Thymeleaf` `Maven`
 
-✅ Exception Handling
-
-✅ Java 8 Features
+[🔗 View Repo](https://github.com/Akash-Kadu/GetYourGrocery)
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-✅ JDBC
+#### 🌉 CareerBridge
+**Full-Stack Recruitment Portal**
 
-✅ Servlets
+MVC-based recruitment platform decoupling business logic from UI, with **RBAC** for Recruiters & Seekers.
 
-✅ JSP
+- 🔑 Role-Based Access Control + secure session management
+- 🏗️ DAO pattern for clean data access
+- 🛡️ JDBC with PreparedStatements — SQL-injection safe
 
-✅ Spring MVC
+`Core Java` `J2EE (Servlets/JSP)` `JDBC` `Oracle SQL` `MVC`
 
-✅ Spring Boot
-
-✅ REST APIs
+[🔗 View Repo](https://github.com/Akash-Kadu/CareerBridge)
 
 </td>
 </tr>
 </table>
 
----
-
-# 🗄️ Database Skills
-
-✔ Oracle SQL
-
-✔ Query Optimization
-
-✔ JDBC Integration
-
-✔ Entity Relationships
-
-✔ CRUD Operations
-
-✔ Database Design
+> 💬 More projects on the way — check my [pinned repos](https://github.com/Akash-Kadu?tab=repositories) for the latest!
 
 ---
 
-# 🚀 Featured Project 01
+### 💼 Experience
 
-## 🛒 GetYourGrocery
-
-### Multi-Role Grocery E-Commerce Platform
-
-<img width="100%" src="YOUR_GROCERY_SCREENSHOT_URL"/>
-
-### Tech Stack
-
-Java • Spring Boot • Spring MVC • Hibernate • JPA • Oracle DB • Thymeleaf
-
-### Key Features
-
-* Customer & Seller Modules
-* Secure Authentication
-* Product Management
-* Inventory Management
-* Form Validation
-* Exception Handling
-* Database Relationship Mapping
-
-### Highlights
-
-✔ Full Stack Development
-
-✔ Layered Architecture
-
-✔ Database Design
-
-✔ RESTful Development
+| Role | Company | Duration |
+|---|---|---|
+| Java Full Stack Developer Trainee | Naresh IT | June 2025 – Present |
+| Front End Developer Intern | PugArch Technologies Pvt. Ltd. | July 2024 – Sept 2024 |
 
 ---
 
-# 🚀 Featured Project 02
+### 🎓 Education
 
-## 💼 CareerBridge
-
-### Recruitment Management Portal
-
-<img width="100%" src="YOUR_CAREERBRIDGE_SCREENSHOT_URL"/>
-
-### Tech Stack
-
-Core Java • JSP • Servlets • JDBC • Oracle SQL
-
-### Key Features
-
-* Recruiter Dashboard
-* Job Seeker Dashboard
-* Resume Upload
-* Job Tracking
-* Session Management
-* RBAC Security
-
-### Highlights
-
-✔ MVC Architecture
-
-✔ DAO Pattern
-
-✔ SQL Optimization
-
-✔ Secure Authentication
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏗️ Learning Journey
-
-🔹 Microservices Architecture
-
-🔹 Spring Security + JWT
-
-🔹 Docker
-
-🔹 AWS Cloud Fundamentals
-
-🔹 System Design
-
-🔹 Data Structures & Algorithms
-
----
-
-# 🎯 2026 Goals
-
-✅ Land a Java Developer Role
-
-✅ Build Production-Ready Spring Boot Applications
-
-✅ Deploy Full Stack Projects
-
-✅ Contribute to Open Source
-
-✅ Master Backend Engineering
-
----
-
-# 📫 Let's Connect
-
-📧 Email: [akashkadu3112@gmail.com](mailto:akashkadu3112@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/akash-kadu
-
-🌐 Portfolio: akashrealresume.netlify.app
+**B.Tech in Electronics and Communication** — Priyadarshini Bhagwati College of Engineering *(2021 – 2025)*
 
 ---
 
 <div align="center">
 
-### ⭐ Building scalable applications, one commit at a time.
+### 📫 Let's Connect
 
-</div>
+<a href="https://akashrealresume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://linkedin.com/in/akash-kadu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akashkadu3112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-✅ Master Spring Boot
-
-✅ Learn Microservices Architecture
-
-✅ Build Cloud-Native Applications
-
-✅ Strengthen Data Structures & Algorithms
-
-✅ Contribute to Open Source Projects
-
----
-
-## 📫 Let's Connect
-
-* LinkedIn: linkedin.com/in/akash-kadu
-* Portfolio: akashrealresume.netlify.app
-
----
-
-<div align="center">
-
-### ⭐ "Code. Learn. Build. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 </div>
