@@ -56,6 +56,8 @@ public class AkashKadu {
 **💻 Languages & Backend**
 
 <img src="https://skillicons.dev/icons?i=java,python,spring" />
+<br>
+<sub>Java • Python • Spring Boot</sub>
 
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -67,6 +69,8 @@ public class AkashKadu {
 **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,tailwind" />
+<br>
+<sub>React • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind</sub>
 
 </td>
 </tr>
@@ -76,6 +80,8 @@ public class AkashKadu {
 **🗄️ Database**
 
 <img src="https://skillicons.dev/icons?i=oracle,mysql" />
+<br>
+<sub>Oracle • MySQL</sub>
 
 </td>
 <td align="center" valign="top" width="50%">
@@ -83,11 +89,12 @@ public class AkashKadu {
 **🧰 Tools & IDE**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<br>
+<sub>Git • GitHub • VS Code • IntelliJ IDEA</sub>
 
 </td>
 </tr>
 </table>
-
 <br>
 
 ## 💡 Core Strengths
